@@ -1,6 +1,6 @@
 # Aragon Monthly
 #### The community curated digital newspaper about DAOs, governance and the Aragon ecosystem
-#### Issue 08, September 21st 2018
+#### Issue 09, October 2nd 2018
 ___
 > **Content curation is the process of gathering information relevant to a particular topic or area of interest.**
 
@@ -13,7 +13,7 @@ ___
 
 ## [Recent News](news/index.md)
 
-[**Aragon Labs Research Update #1**](https://blog.aragon.org/aragon-labs-research-update-1/) | [**Enter the world of personal DAOs**](https://blog.aragon.one/enter-the-world-of-personal-daos/)  | [Aragon against censorship—Goodbye Medium, hello Ghost to News](https://blog.aragon.org/aragon-against-censorship-goodbye-medium-hello-ghost/) |
+[**Why We Need Web 3.0**](https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab) | [**Blockchain Governance 101**](https://medium.com/@Vlad_Zamfir/blockchain-governance-101-eea5201d7992)  | [**Analysis of Chainlink**](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f) | [**A Blockchain Perspective on Three Product #BUIDL’ing Motivations**] (https://blog.aragon.one/a-blockchain-perspective-on-three-product-buidling-motivations/) | 
 :-----------:|:-----------:|:-----------:|
 [Aragon](news/aragon.md) | [DAOs](news/daos.md) | [Aragon](news/aragon.md) |
 [<img src="http://blog.aragon.org/content/images/2018/08/aragon-labs-update.jpg">](https://blog.aragon.org/aragon-labs-research-update-1/) | [<img src="http://blog.aragon.one/content/images/2018/08/aragon-personal-dao.jpg">](https://blog.aragon.one/enter-the-world-of-personal-daos/) | [<img src="http://blog.aragon.org/content/images/2018/08/blog_header_ghost2.png">](https://blog.aragon.org/aragon-against-censorship-goodbye-medium-hello-ghost/) |
